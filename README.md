@@ -4,6 +4,8 @@ This example shows how to install shared storage and how to build a Milvus clust
 
 This example does not include how to build a Kubernetes cluster or how to install Helm.
 
+> Only for Milvus v0.10.x.
+
 ## Preparation
 
 - Kubernetes 1.10+
