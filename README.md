@@ -130,7 +130,7 @@ Shared storage is needed when we want a storage volume in a Kubernetes cluster t
 1. Pull source code
 
    ```bash
-   $ git clone -b 0.10.0 https://github.com/milvus-io/milvus-helm.git
+   $ git clone -b 1.0 https://github.com/milvus-io/milvus-helm.git
    $ cd milvus-helm/charts/milvus
    ```
    
