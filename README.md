@@ -1,3 +1,5 @@
+:exclamation::exclamation: **This repo will no longer be maintained, please visit https://github.com/milvus-io/bootcamp** :exclamation: :exclamation:
+
 # Deploy Milvus distributed clusters based on Kubernetes
 
 This example shows how to install shared storage and how to build a Milvus cluster using both Helm and Kubectl.
